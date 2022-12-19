@@ -1,0 +1,6 @@
+api_platform:
+  collection:
+    pagination:
+      enabled: true
+  defaults:
+     pagination_items_per_page: 1
